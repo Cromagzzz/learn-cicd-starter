@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Cromagzzz/learn-cicd-starter#readme",
   "dependencies": {
     "vitest": "^4.1.9"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.9"
   }
 }
