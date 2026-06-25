@@ -1,0 +1,26 @@
+{
+  "name": "learn-cicd-starter",
+  "version": "1.0.0",
+  "description": "This repo contains the starter code for the \"Notely\" application for the \"Learn CICD\" course on [Boot.dev](https://boot.dev).",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cromagzzz/learn-cicd-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cromagzzz/learn-cicd-starter/issues"
+  },
+  "homepage": "https://github.com/Cromagzzz/learn-cicd-starter#readme",
+  "dependencies": {
+    "vitest": "^4.1.9"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^4.1.9"
+  }
+}
