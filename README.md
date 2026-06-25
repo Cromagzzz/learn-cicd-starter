@@ -1,4 +1,4 @@
-[CI](https://github.com/Cromagzzz/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![CI-TEST](https://github.com/Cromagzzz/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
